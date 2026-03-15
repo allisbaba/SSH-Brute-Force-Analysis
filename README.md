@@ -17,4 +17,4 @@ This project demonstrates an end-to-end SOC analysis process. I simulated a targ
 
 ## 📂 Repository Structure
 - `/Evidence`: Contains the raw `.pcap` file and log samples.
-- `/Report`: Full Incident Report in PDF format.
+- `/Screenshots`: Contains the images from wirehark and splunk.
